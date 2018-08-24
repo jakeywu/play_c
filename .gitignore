@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.log
+tmp/
+__init__.py
+__pycache__/
+model/
+tmp.py
+cmake-build-debug/
+*.out
